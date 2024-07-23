@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://msnizami.github.io/msnizami/sitemap.xml
+Sitemap: https://msnizami.github.iomsnizami/msnizami.github.io/sitemap.xml
